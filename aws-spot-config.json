@@ -1,0 +1,6 @@
+{
+  "ImageId": "ami-061854b98d50d6dae",
+  "InstanceType": "g4dn.xlarge",
+  "KeyName": "voidlaptop",
+  "SecurityGroups": ["ssh"]
+}
