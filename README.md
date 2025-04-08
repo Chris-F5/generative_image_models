@@ -47,6 +47,18 @@ DDPM
 ```
 
 
+SGAN
+----
+
+Training Image:
+
+![Training Image](sgan/examples/barcelona-train.png)
+
+Generated Image:
+
+![Generated Image](sgan/examples/barcelona-large-2000_iterations.png)
+
+
 SinGAN
 ------
 
@@ -56,13 +68,13 @@ Training Image:
 
 Generated Images:
 
-![Training Image](singan/examples/birds/fake9-0.png)
-![Training Image](singan/examples/birds/fake9-1.png)
-![Training Image](singan/examples/birds/fake9-2.png)
-![Training Image](singan/examples/birds/fake9-3.png)
-![Training Image](singan/examples/birds/fake9-4.png)
-![Training Image](singan/examples/birds/fake9-5.png)
-![Training Image](singan/examples/birds/fake9-6.png)
-![Training Image](singan/examples/birds/fake9-7.png)
-![Training Image](singan/examples/birds/fake9-8.png)
-![Training Image](singan/examples/birds/fake9-9.png)
+![Generated Image](singan/examples/birds/fake9-0.png)
+![Generated Image](singan/examples/birds/fake9-1.png)
+![Generated Image](singan/examples/birds/fake9-2.png)
+![Generated Image](singan/examples/birds/fake9-3.png)
+![Generated Image](singan/examples/birds/fake9-4.png)
+![Generated Image](singan/examples/birds/fake9-5.png)
+![Generated Image](singan/examples/birds/fake9-6.png)
+![Generated Image](singan/examples/birds/fake9-7.png)
+![Generated Image](singan/examples/birds/fake9-8.png)
+![Generated Image](singan/examples/birds/fake9-9.png)
