@@ -64,17 +64,17 @@ SinGAN
 
 Training Image:
 
-![Training Image](singan/examples/birds/real9.png)
+![Training Image](singan/examples/birds/real7.png)
 
 Generated Images:
 
-![Generated Image](singan/examples/birds/fake9-0.png)
-![Generated Image](singan/examples/birds/fake9-1.png)
-![Generated Image](singan/examples/birds/fake9-2.png)
-![Generated Image](singan/examples/birds/fake9-3.png)
-![Generated Image](singan/examples/birds/fake9-4.png)
-![Generated Image](singan/examples/birds/fake9-5.png)
-![Generated Image](singan/examples/birds/fake9-6.png)
-![Generated Image](singan/examples/birds/fake9-7.png)
-![Generated Image](singan/examples/birds/fake9-8.png)
-![Generated Image](singan/examples/birds/fake9-9.png)
+![Generated Image](singan/examples/birds/fake7-0.png)
+![Generated Image](singan/examples/birds/fake7-1.png)
+![Generated Image](singan/examples/birds/fake7-2.png)
+![Generated Image](singan/examples/birds/fake7-3.png)
+![Generated Image](singan/examples/birds/fake7-4.png)
+![Generated Image](singan/examples/birds/fake7-5.png)
+![Generated Image](singan/examples/birds/fake7-6.png)
+![Generated Image](singan/examples/birds/fake7-7.png)
+![Generated Image](singan/examples/birds/fake7-8.png)
+![Generated Image](singan/examples/birds/fake7-9.png)
