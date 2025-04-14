@@ -7,6 +7,7 @@ import os
 import argparse
 
 parser = argparse.ArgumentParser()
+parser.add_argument('-r', '--real', type=str)
 parser.add_argument('--d_grad_clamp', type=float, default=0.1)
 parser.add_argument('--res_loss_mult', type=float, default=0.2)
 parser.add_argument('-i', '--iterations', type=int, default=4000)
@@ -211,7 +212,7 @@ def save_image(fname, img_tensor):
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 print(f"PyTorch device = {device}")
 
-real_img = PIL.Image.open("birds.png")
+real_img = PIL.Image.open(args.real)
 real_np = np.array(real_img)
 real_np = np.transpose(real_np, (2, 0, 1))
 real_np = (real_np / 255)*2.0 - 1.0
